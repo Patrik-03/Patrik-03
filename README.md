@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrik-03&label=Profile%20views&color=1ba7a7&style=flat" alt="patrik-03" /> </p>
 
-- 🌱 I’m currently learning **Database systems and Cybersecurity**
+- 🌱 I’m currently learning **Database systems and Mobile technologies**
 
 - 💬 Ask me about **Python, Java, AI, Machine Learning, Data structures**
 
