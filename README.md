@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python, Java, AI, Machine Learning, Data structures**
 
-- 📫 How to reach me **patrik.drdak007@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/patrik-drdak-03fiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrik-drdak-03fiit" height="30" width="40" /></a>
